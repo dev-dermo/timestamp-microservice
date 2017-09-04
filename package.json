@@ -1,0 +1,22 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Node.js Timestamp API",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diarmuid-murphy/timestamp-microservice.git"
+  },
+  "author": "Diarmuid Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diarmuid-murphy/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/diarmuid-murphy/timestamp-microservice#readme"
+}
